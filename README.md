@@ -1,6 +1,6 @@
 # Pinia Colada Nuxt SSR head reproduction
 
-Minimal reproduction for a reactive `useSeoMeta()` getter that reads data from a Pinia Colada query. It fetches posts and authors from the public JSONPlaceholder API; it does not use Meisaku services or credentials.
+Minimal reproduction for a reactive `useSeoMeta()` getter that reads data from a Pinia Colada query. It fetches posts and authors from the public JSONPlaceholder API and requires no API credentials.
 
 ## Environment
 
